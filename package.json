@@ -1,0 +1,16 @@
+{
+  "name": "discord-status-bot",
+  "version": "1.0.0",
+  "description": "Gives a role when users have /wemove in their status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
